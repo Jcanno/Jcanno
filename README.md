@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcanno&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcanno&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jcanno&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcanno&hide_title=true&hide_border=true&layout=compact&theme=radical" />
